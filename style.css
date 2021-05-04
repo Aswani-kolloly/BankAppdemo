@@ -1,0 +1,25 @@
+table td input{    
+    height: 50px;
+    
+}
+.form-control
+{
+    border-radius: 6px;
+}
+.form-control:focus{
+      
+    border-color: #0275d8;
+}
+table td{
+    
+   padding: 15px 15px 0px 15px; 
+    width: 396px;
+    
+}
+a{
+    text-decoration: none;
+    
+}
+ a:hover{
+    text-decoration: underline;
+}
